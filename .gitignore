@@ -1,9 +1,16 @@
-# Xcode
-#
-# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+.DS_Store
+.Trashes
+*.swp
+DerivedData/
+Derived/
+/build/
+*.pbxuser
 
 ## User settings
 xcuserdata/
+*.xccheckout
+.idea/
+*.xcscmblueprint
 
 ## Obj-C/Swift specific
 *.hmap
